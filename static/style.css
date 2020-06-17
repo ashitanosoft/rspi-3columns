@@ -1,0 +1,34 @@
+body {
+    width: 480px;
+    margin: 0,auto;
+}
+
+
+#header {
+    width: 480px;
+}
+
+#wrapper {
+    float: left;
+}
+
+#main {
+    width: 270px;
+    float: right;
+}
+
+#sidebar01 {
+    width: 105px;
+    float: left;
+}
+
+#sidebar02 {
+    width: 105px;
+    float: right;
+}
+
+#footer {
+    clear: both;
+    width: 480px;
+
+}
