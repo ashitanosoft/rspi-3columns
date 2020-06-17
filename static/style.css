@@ -6,8 +6,12 @@ body {
 
 #header {
     width: 480px;
+    height: 50px;
+    background-color: blue;
 }
-
+h1#header{
+    color: white;
+}
 #wrapper {
     float: left;
 }
@@ -30,5 +34,7 @@ body {
 #footer {
     clear: both;
     width: 480px;
+    height: 50px;
+    background-color: blue;
 
 }
